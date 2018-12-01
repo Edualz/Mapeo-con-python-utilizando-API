@@ -1,9 +1,9 @@
-# Mapeo-con-python-utilizando-API
+# Mapeo con python utilizando API
 In this work we made a program in Python where using a API we will be able to download data of diferent topics and translate them at the same time to make a base map, this program can work with any topographic map of the state.
 
-En
-En
-Introducción 
+
+
+# Introducción 
 
 
 
@@ -20,7 +20,10 @@ Entonces lo que proponemos es realizar un programa en Python que con la ayuda de
 
 
 
-Desarrollo
+# Desarrollo
+
+
+
 Dentro de este documento se redactará el proceso que se estará llevando acabo para la elaboración del proyecto a realizar, el cual se realizara un tema de gran importancia, pues cabe decir que la programación se ha desarrollado a muy grandes rasgos la im-plementación de plasmar un mapa base a una imagen de Colima en donde podamos visualizar los diferentes cosas que se reali-zaran en el proyecto. Un ejemplo de este proyecto seria de que las empresas puedan realizar estudios de localización o de ver donde se encuentran sus demás dependen-cias por supuesto con datos reales que se encuentren a disposición de toda la pobla-ción que lo rodea. Un mapa es muy impor-tante ya que en el podemos encontrar todo lo que solicite la empresa para así nosotros realizarlo. 
 Constituye el medio indispensable para la localización y la orientación que necesita-mos saber nosotros, además cumple con la función de incorporar información entendi-ble para el lector.
 Este es otro claro ejemplo pero con Ja-vaScript:
@@ -32,7 +35,7 @@ Cuando crea una nueva instancia de mapa, especifica un <div> elemento HTML en la
 
 
 
-Manejo de datos
+# Manejo de datos
 
 
 
@@ -59,7 +62,7 @@ Con estos sencillos pasos se obtiene un API Directions, en este caso la mía es:
 
 
 
-COdigo
+# Codigo
 
 #Importamos los modulos necesarios para realizar el trabajo 
 
