@@ -119,9 +119,15 @@ p# Creamos el obejeto mapa con el modulo de folium
 
 Map = folium.Map(location=[22, -99],tiles = "Stamen terrain", zoom_start= 5)
 
-folium.GeoJson(Gj).add_to(Map)rint Gj
+folium.GeoJson(Gj).add_to(Map)
+
+print (Gj)
 #mostramos el mapa 
 
+
+# Conclución
+
+Este trabajo en un comienzo se procuro mapear con la ayuda de la API de INEGI pero al momento de querer generar la API teniamos que llenar un pequeño forulario para que el INEGI nos mandara una clave al correo para poder generar la API, pero se hicieron varios intentos pero nunca nos mandaron la clave, asi que decidimos hacer el proagrama con una API de Google, una de las cosas con las nos topamos es que en junio del 2018 Google comenzo a cobrar por generar las API pero entre los compañeros buscamos y alguien nos proporciono una que ya tenia, por lo que usamos esa en el programa.
 
 
 
